@@ -1,0 +1,2 @@
+print(Good bye)
+print(finish good bye)
